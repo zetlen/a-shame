@@ -1,5 +1,5 @@
 {
-  "name": "a-shame",
+  "name": "create-a-shame",
   "version": "1.0.0",
   "description": "dummy initializer for testing `npm init` and `yarn create` behavior",
   "main": "index.js",
@@ -7,8 +7,8 @@
   "scripts": {
     "test": "echo npm init a-shame"
   },
-  "repository": "github:zetlen/a-shame",
-  "homepage": "https://zetlen.github.io/a-shame",
+  "repository": "github:zetlen/create-a-shame",
+  "homepage": "https://zetlen.github.io/create-a-shame",
   "keywords": [
     "init"
   ],
