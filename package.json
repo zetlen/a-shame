@@ -1,0 +1,20 @@
+{
+  "name": "a-shame",
+  "version": "1.0.0",
+  "description": "dummy initializer for testing `npm init` and `yarn create` behavior",
+  "main": "index.js",
+  "bin": "echo-version.js",
+  "scripts": {
+    "test": "echo npm init a-shame"
+  },
+  "repository": "github:zetlen/a-shame",
+  "homepage": "https://zetlen.github.io/a-shame",
+  "keywords": [
+    "init"
+  ],
+  "author": "zetlen <zetlen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "figlet": "^1.2.4"
+  }
+}
