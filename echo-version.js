@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const figlet = require('figlet'),
 	version = require('./');
 	fonts = figlet.fontsSync();
